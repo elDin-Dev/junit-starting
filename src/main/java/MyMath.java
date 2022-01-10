@@ -6,6 +6,7 @@ public class MyMath {
         for (int i : numbers){
             sum +=i;
 
+
         }
 
         return sum;
